@@ -1,0 +1,9 @@
+h1 {
+  font-family: sans-serif;
+  color: #0000ff;
+  text-align: center;
+}
+
+#main {
+  float: right;
+}
