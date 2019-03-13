@@ -1,9 +1,28 @@
-h1 {
+body {
   font-family: sans-serif;
-  color: #0000ff;
+  color: #ff00ff;
+  margin-top: 60px;
+}
+
+.header {
   text-align: center;
 }
 
-#main {
-  float: right;
+.jumbotron {
+  background-color: black;
 }
+
+#background {
+  background-image: url(https://cdn10.bigcommerce.com/s-jd2vdz6ehx/products/1271/images/5707/mountain__63571.1503856211.1280.1280.jpg?c=2);
+}
+
+  /* background-repeat: round; */
+  /* background-position: bottom 100%;
+}
+
+/* #main {
+  width: 20%;
+  float: right;
+  border: 2px solid #2100ff;
+  margin: 15px;
+} */
