@@ -12,16 +12,19 @@ body {
   background-color: black;
 }
 
+img.birds {
+  height: 120px;
+  float: right;
+}
+
 .span {
   color: white;
 }
 
-#background {
+#mountains {
   background-image: url(https://cdn10.bigcommerce.com/s-jd2vdz6ehx/products/1271/images/5707/mountain__63571.1503856211.1280.1280.jpg?c=2);
   background-position: bottom 100%;
 }
-
-  /* background-repeat: round; */
 
 /* #main {
   width: 20%;
